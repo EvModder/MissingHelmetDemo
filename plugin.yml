@@ -1,5 +1,6 @@
 name: MissingHelmetDemo
 main: net.evmodder.MissingHelmetDemo.MissingHelmetDemo
+website: https://github.com/EvModder/MissingHelmetDemo
 author: EvModder/EvDoc
 description: Broadcasts the type of helmet an entity is wearing if it has a drop chance >= 1f when killed
 version: 1.0
